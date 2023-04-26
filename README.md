@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rafaël
 - 👀 I’m interested in react / js / php
 - 🌱 I’m currently learning react 
-- 📫 How to reach me ... 
 
 <!---
 deluner/deluner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
